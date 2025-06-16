@@ -34,7 +34,7 @@
     </td>
     <td align="center" width="50%">
       <h2>📈 Commit Grade</h2>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoK&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?username=KoK&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
