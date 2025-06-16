@@ -31,7 +31,7 @@
 
   ### ✨ PROJECT
   
-  <summary>Project onClick{() => {Dropdown}}</summary>
+  <summary>onClick={showProject}</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
