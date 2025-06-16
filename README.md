@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=8A2BE2&height=200&section=header&text=Welcome %20%20[Kokeoung's✨]&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=8A2BE2&height=200&section=header&text=Welcome to%20[Kokeoung's✨]&fontSize=40&fontColor=ffffff" />
 </p>
 
 ## 🎮 Welcome to My Dev-Lab!
