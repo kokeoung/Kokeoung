@@ -11,8 +11,8 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄%20Resume-PDF-informational?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
-[![Notion](https://img.shields.io/badge/📘%20Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e7c32f3e3d7801d9ceff757d5ca9504?source=copy_link)
+[![Resume](https://img.shields.io/badge/%20Resume-PDF-informational?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)
+[![Notion](https://img.shields.io/badge/%20Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e7c32f3e3d7801d9ceff757d5ca9504?source=copy_link)
 
 </div>
 
