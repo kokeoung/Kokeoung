@@ -63,7 +63,6 @@
 ## 🐣 Contact
 🌐 Blog: [velog.io/@levi_](https://velog.io/@levi_)<br>
 📧 Email: ko908599@gmail.com<br>
-🔖 Resume: [이력서]
 
 ## 🎓 Education
 - 구현고등학교 — 졸업 (2019.02)<br>
