@@ -38,9 +38,11 @@
 
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px;" align="center">
-    <h2>📈 GitHub Stats</h2>
+    
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoK&show_icons=true&theme=radical)
+    
   </div>
+  
 </div>
 
 
