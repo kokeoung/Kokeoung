@@ -10,6 +10,8 @@
 </div>
 
 ---
+<br>
+
 <div align="center">
   <h2>
     🐳 My Skills
@@ -33,6 +35,7 @@
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 </div>
+<br>
 
 <div align="center">
   <h2>
