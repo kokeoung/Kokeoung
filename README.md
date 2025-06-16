@@ -19,13 +19,12 @@
   </a>
 </div>
 
-<p align="start">
-  <img src="cattt.png" width="50"/>
-</p>
+  
 
 ---
 <br>
 
+<img src="cattt.png" width="50"/>
 <table>
   <tr>
     <td align="center" width="50%">
