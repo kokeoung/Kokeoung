@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+KoK's+GitHub!&center=true&width=500&height=50&font=Fredoka+One" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+KoK's+GitHub!&center=true&width=800&height=100&font=Fredoka+One" />
   </h3>
 </div>
 
