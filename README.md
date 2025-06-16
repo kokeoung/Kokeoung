@@ -6,7 +6,6 @@
 - 꾸준하게 성장해나가는 백엔드 개발자 고경입니다. 😄
 
 ---
-<br><br>
 
 ## 🐳 Skill
 | Language | Framework | Collaboration | Tools | Studying... |
