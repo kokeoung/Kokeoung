@@ -6,8 +6,8 @@
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)  
-[![Notion](https://img.shields.io/badge/Notion-Studynote-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e7c32f3e3d7801d9ceff757d5ca9504?source=copy_link)
+[![Resume](https://img.shields.io/badge/Resume-PDF-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)  
+[![Notion](https://img.shields.io/badge/Notion-Studynote-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1e7c32f3e3d7801d9ceff757d5ca9504?source=copy_link)
 
 </div>
 
