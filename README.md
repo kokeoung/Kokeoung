@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=8A2BE2&height=200&section=header&text=Welcome to%20[Kokeoung's✨]&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=7F00FF,000000&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-## 🎮 Welcome to My Dev-Lab!
+## 👀 안녕하세요! 백엔드 개발자를 꿈꾸는 고경 입니다. ##
 
 > 🧠 상상하고, 🛠️ 만들고, 🎨 꾸미는 걸 좋아하는  
 > **"개발자"** 입니다.  
@@ -19,7 +19,7 @@
 ## 🧩 Side Quests  
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
-| MotionMate | 운동 SNS 앱 | React + Spring |
+| MotionMate | 운동 SNS 소셜커머스 | React + Vite / Java / SpringBoot |
 | 픽셀투두 | 도트풍 투두앱 | Vite + Tailwind |
 | 미니게임들 | 직접 만든 JS게임 모음 | JavaScript |
 
