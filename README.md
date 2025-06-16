@@ -1,15 +1,9 @@
-<div align="center" style="position: relative; width: 800px; height: 200px; margin: auto;">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Stroke%20Test&fontAlign=70&stroke=auto" 
-    alt="waving header" 
-    style="width: 100%; height: 200px; display: block;"
-  />
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=40&duration=7000&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+KoK's+GitHub!" 
-    alt="typing effect" 
-    style="position: absolute; top: 30px; left: 50%; transform: translateX(-50%); pointer-events: none;"
-  />
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Stroke%20Test&fontAlign=70&stroke=auto)
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=40&duration=7000&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+KoK's+GitHub!" />
+  </h3>
 </div>
 
 <div align="center">
