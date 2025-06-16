@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD0EC,50:CAE8F8,100:E0F7FA&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+KoK's+GitHub!&center=true&width=500&height=50&font=Fredoka+One" />
+</div>
+
 
 <div align="center">
   <h1>
