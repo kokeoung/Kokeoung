@@ -11,7 +11,9 @@
 
 ---
 <div align="center">
-## 🐳 My Skills
+  <h2>
+    🐳 My Skills
+  </h2>
   
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
