@@ -76,6 +76,6 @@
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0abcf9,1e90ff,4169e1&height=200&section=footer)
   
 </div>
