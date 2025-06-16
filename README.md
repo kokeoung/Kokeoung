@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB,ADD8E6&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff&fontWeight=600&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0D9FF,D8ECFF&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff&fontWeight=600&animation=twinkle" />
 </p>
 
 ## 👀 안녕하세요! 백엔드 개발자를 꿈꾸는 고경 입니다. ##
