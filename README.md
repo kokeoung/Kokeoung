@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-  안녕하세요!🐱<br>
+  <h1>
+    안녕하세요!🐱
+  </h1><br>
   꾸준하게 성장해나가는 백엔드 개발자 고경입니다.<br>
   주 언어는 Java를 사용하고 있고, SpringFramework를 활용해서 프로젝트를 진행했습니다.<br>
   앞으로도 꾸준한 학습과 체득을 통해 여러 기술들을 공부하며<br>
@@ -48,7 +50,7 @@
 
 <div align="center">
   <h2>
-    🐲 Project
+    🍁 Project
   </h2>
   
 | Project | description | Duration | skill |
@@ -61,7 +63,7 @@
 ---
 <br>
 
-## 🐣 Contact
+## 🍃 Contact
 🌐 Blog: [velog.io/@levi_](https://velog.io/@levi_)<br>
 📧 Email: ko908599@gmail.com<br>
 
