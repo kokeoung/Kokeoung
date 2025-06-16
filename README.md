@@ -14,7 +14,7 @@
 ---
 <br>
 
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; gap: 50px; flex-wrap: wrap;">
 
   <!-- Skills Section -->
   <div align="center">
@@ -38,8 +38,8 @@
 
   <!-- GitHub Score Section -->
   <div align="center">
-    <h2>💡 GitHub Score</h2>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kok9085" />
+    <h2>📈 Commit Grade</h2>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/grades?username=kok9085&theme=monokai" />
   </div>
 
 </div>
