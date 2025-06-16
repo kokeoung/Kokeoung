@@ -13,7 +13,7 @@
 ---
 
 ## 🐲 Project
-| Project | description | 기간 | skill |
+| Project | description | Duration | skill |
 |----------|------|------|------|
 | [MotionMate](https://github.com/motion-mate/FE-motion-mate) | "운동, 커뮤니티, 쇼핑몰기능을 결합한 SNS 기반 소셜커머스 플랫폼" | 2025.05.29 ~ 2025.06.16 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
 | [Banana](https://github.com/KH-mini-project/banana) | "Velog클론 프로젝트 게시글 작성, 댓글, 좋아요 기능중심 기술 블로그 플랫폼 | 2025.04.01 ~ 2025.04.30 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
