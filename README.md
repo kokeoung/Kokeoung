@@ -18,41 +18,28 @@
   <tbody>
     <tr>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" style="border-radius: 8px;" /><br />Java
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="120" style="height: 40px; margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="120" style="height: 40px;" />
       </td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="60" style="border-radius: 8px;" /><br />Spring
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="120" style="height: 40px; margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="120" style="height: 40px;" />
       </td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" style="border-radius: 8px;" /><br />GitHub
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="120" style="height: 40px; margin-right: 10px; object-fit: contain;" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Notion-logo.svg" alt="Notion" width="120" style="height: 40px; object-fit: contain;" />
       </td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" style="border-radius: 8px;" /><br />VSCode
+        <img src="https://user-images.githubusercontent.com/10631888/159015573-945fd904-997d-49fa-87f7-c6ad3d7bc777.png" alt="VSCode" width="120" style="height: 40px; margin-right: 10px; object-fit: contain;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ" width="120" style="height: 40px;" />
       </td>
       <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="border-radius: 8px;" /><br />React
-      </td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="border-radius: 8px;" /><br />MySQL
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="60" style="border-radius: 8px;" /><br />Gradle
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/notion-logo.svg" alt="Notion" width="60" style="border-radius: 8px;" /><br />Notion
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="60" style="border-radius: 8px;" /><br />IntelliJ
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" alt="JWT" width="60" style="border-radius: 8px;" /><br />JWT
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="120" style="height: 40px; margin-right: 10px;" />
+        <img src="https://raw.githubusercontent.com/aaroniker/jwt-logo/master/jwt-logo-rectangle.svg" alt="JWT" width="120" style="height: 40px;" />
       </td>
     </tr>
   </tbody>
 </table>
-
 
 ---
 
