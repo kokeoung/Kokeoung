@@ -19,10 +19,9 @@
   </a>
 </div>
 
-<p align="center">
+<p align="start">
   <img src="cattt.png" width="50"/>
 </p>
-<br/>
 
 ---
 <br>
