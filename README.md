@@ -2,18 +2,57 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD0EC,50:CAE8F8,100:E0F7FA&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
-
-## 👀 안녕하세요! 백엔드 개발자를 꿈꾸는 고경 입니다. ##
-
-> 🧠 상상하고, 🛠️ 만들고, 🎨 꾸미는 걸 좋아하는  
-> **"개발자"** 입니다.  
-> 어릴 적부터 게임 만드는 걸 꿈꿨고,  
-> 지금은 작은 아이디어들을 코드로 구현하고 있어요.
-
 ---
 
 ## 🔧 My Dev Tools
-<img src="https://skillicons.dev/icons?i=js,react,vite,nodejs,spring,mysql,figma" />
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #ccc; padding: 10px;">스킬</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">프레임워크</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">협업 도구</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">개발 툴</th>
+      <th style="border: 1px solid #ccc; padding: 10px;">Studying</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" style="border-radius: 8px;" /><br />Java
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="60" style="border-radius: 8px;" /><br />Spring
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" style="border-radius: 8px;" /><br />GitHub
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" style="border-radius: 8px;" /><br />VSCode
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" style="border-radius: 8px;" /><br />React
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" style="border-radius: 8px;" /><br />MySQL
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="60" style="border-radius: 8px;" /><br />Gradle
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.worldvectorlogo.com/logos/notion-logo.svg" alt="Notion" width="60" style="border-radius: 8px;" /><br />Notion
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="60" style="border-radius: 8px;" /><br />IntelliJ
+      </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" alt="JWT" width="60" style="border-radius: 8px;" /><br />JWT
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
