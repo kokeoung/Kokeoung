@@ -39,7 +39,7 @@
   <!-- GitHub Stats -->
   <div style="flex: 1; min-width: 300px;" align="center">
     <h2>📈 GitHub Stats</h2>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/grades?username=kok9085&theme=monokai" width="90%" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoK&show_icons=true&theme=radical)
   </div>
 </div>
 
