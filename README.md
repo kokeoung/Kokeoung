@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD0EC,50:CAE8F8,100:E0F7FA&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
-
 ---
 <br><br>
 
@@ -32,6 +31,3 @@
 
 ---
 <br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokeoung&show_icons=true&theme=tokyonight" />
-</p>
