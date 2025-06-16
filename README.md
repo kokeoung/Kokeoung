@@ -44,7 +44,7 @@
 <br>
 
 <details>
-  <summary>🍁 Project</summary>
+  <summary>### 🍁 Project</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
