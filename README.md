@@ -52,30 +52,16 @@
 ---
 <br>
 
-<div align="center">
-  <h2>
-    🐣 Contact
-  </h2>
-  
-  🌐 Blog: [velog.io/@levi_](https://velog.io/@levi_)<br>
-  📧 Email: ko908599@gmail.com<br>
-  🔖 Resume: [이력서]
-</div>
-<br>
+## 🐣 Contact
+🌐 Blog: [velog.io/@levi_](https://velog.io/@levi_)<br>
+📧 Email: ko908599@gmail.com<br>
+🔖 Resume: [이력서]
 
-<div align="center">
-  <h2>
-    🎓 Education
-  </h2>
-  구현고등학교 — 졸업 (2019.02)<br>
-  신안산대학교 컴퓨터정보학과 — 졸업 (2025.06)
-</div>
-<br>
+## 🎓 Education
+- 구현고등학교 — 졸업 (2019.02)<br>
+- 신안산대학교 컴퓨터정보학과 — 졸업 (2025.06)
 
-<div align="center">
-  <h2>
-    🏅 Certifications
-  </h2>
-  정보처리산업기사 (필기 취득 / 실기 취득예정)<br>
-  실무기간 2년 후 정보처리기사 취득 예정
-</div>
+## 🏅 Certifications
+- 정보처리산업기사 (필기 취득 / 실기 취득예정)<br>
+- 실무기간 2년 후 정보처리기사 취득 예정
+
