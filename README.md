@@ -62,11 +62,16 @@
 ---
 <br>
 
-<div align="center"; width: 45%;>
-<h3>🍃 Contact</h3>
-🌐 Blog: [velog.io/@levi_](https://velog.io/@levi_)<br>
-📧 Email: ko908599@gmail.com<br>
+<div align="center" width="45%">
+  <h3>🍃 Contact</h3>
+  <a href="https://velog.io/@levi_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
+  </a>
+  <a href="mailto:ko908599@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
+
 
 <div align="center"; width: 45%;>
   <h3>🎓 Education</h3>
