@@ -56,7 +56,7 @@
 
   ### ✨ PROJECT
   
-  <summary></summary>
+  <summary>Project</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
