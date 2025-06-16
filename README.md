@@ -43,8 +43,9 @@
 
 <br>
 
+### 🍁 PROJECT
 <details>
-  <summary>### 🍁 Project</summary>
+  <summary>자세히보기</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
