@@ -19,7 +19,9 @@
   </a>
 </div>
 
-<img src="cattt.png" width="50"/>
+<p align="center">
+  <img src="cattt.png" width="50"/>
+</p>
 
 ---
 <br>
