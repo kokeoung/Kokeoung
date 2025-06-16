@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9AD0EC,50:CAE8F8,100:E0F7FA&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
 </p>
 
----
-<br><br>
-
 ## Hello!!
 - 꾸준하게 성장해나가는 백엔드 개발자 고경입니다. 😄
+
+---
+<br><br>
 
 ## 🐳 Skill
 | Language | Framework | Collaboration | Tools | Studying... |
