@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoK&layout=compact&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/grades?username=KoK&theme=monokai" width="45%"/>
 </p>
 
 <br>
