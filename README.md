@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9AD0EC,CAE8F8&backgroundColor=E0F7FA&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
-</p>
-
+<div style="background: #E0F7FA; padding: 20px; display: inline-block; border-radius: 12px;">
+  <p align="center" style="margin: 0;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9AD0EC,CAE8F8&height=200&section=header&text=Welcome%20to%20Kokeoung's%20GitHub!&fontSize=40&fontColor=ffffff" />
+  </p>
+</div>
 
 ## 👀 안녕하세요! 백엔드 개발자를 꿈꾸는 고경 입니다. ##
 
