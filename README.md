@@ -44,6 +44,7 @@
 <br>
 
 <div align="center">
+  
 ### ✨ PROJECT
 <details>
   <summary>자세히보기</summary>
@@ -55,6 +56,7 @@
 | [KickMovie](https://github.com/KH-Movie-Web-Project/FE-kick-movie) | “TMDBAPI기반 영화정보, 평점확인 서비스” | 2025.03 ~ 2025.05 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
 
 </details>
+
 </div>
 
 ---
