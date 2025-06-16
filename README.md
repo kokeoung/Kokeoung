@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+KoK's+GitHub!&center=true&width=500&height=50&font=Fredoka+One" />
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+KoK's+GitHub!&center=true&width=500&height=50&font=Fredoka+One" />
+  </h2>
 </div>
 
 
