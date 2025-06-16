@@ -5,41 +5,9 @@
 ---
 
 ## 🔧 My Dev Tools
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <thead>
-    <tr>
-      <th style="border: 1px solid #ccc; padding: 10px;">스킬</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">프레임워크</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">협업 도구</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">개발 툴</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">Studying</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="120" style="height: 40px; margin-right: 10px;" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="120" style="height: 40px;" />
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="120" style="height: 40px; margin-right: 10px;" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="Gradle" width="120" style="height: 40px;" />
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="120" style="height: 40px; margin-right: 10px; object-fit: contain;" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Notion-logo.svg" alt="Notion" width="120" style="height: 40px; object-fit: contain;" />
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://user-images.githubusercontent.com/10631888/159015573-945fd904-997d-49fa-87f7-c6ad3d7bc777.png" alt="VSCode" width="120" style="height: 40px; margin-right: 10px; object-fit: contain;" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="IntelliJ" width="120" style="height: 40px;" />
-      </td>
-      <td style="border: 1px solid #ccc; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="120" style="height: 40px; margin-right: 10px;" />
-        <img src="https://raw.githubusercontent.com/aaroniker/jwt-logo/master/jwt-logo-rectangle.svg" alt="JWT" width="120" style="height: 40px;" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+| 스킬 | 프레임워크 | 협업 도구 | 개발 툴 | Studying |
+|-------|-------------|-------------|-----------|------------|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white) |
 
 ---
 
