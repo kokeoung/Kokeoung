@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/grades?username=Kokeoung&theme=monokai" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/grades?username=KoK&theme=monokai" />
     </td>
   </tr>
 </table>
