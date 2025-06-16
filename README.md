@@ -33,7 +33,6 @@
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     </td>
     <td align="center" width="50%">
-      <h2>📈 Commit Grade</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=KoK&show_icons=true&theme=radical" />
     </td>
   </tr>
