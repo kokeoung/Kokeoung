@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://your-resume-link.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-PDF-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
   <a href="https://www.notion.so/1e7c32f3e3d7801d9ceff757d5ca9504?source=copy_link" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Notion-Studynote-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </div>
 
