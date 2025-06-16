@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Stroke%20Test&fontAlign=70&stroke=auto)
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Luckiest+Guy&size=40&duration=7000&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+KoK's+GitHub!" />
   </h3>
