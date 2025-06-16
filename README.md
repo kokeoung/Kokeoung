@@ -8,32 +8,25 @@
 
 ## 🐳 Skill
 
-## Skills
+| Skills | Framework | Collaboration | Tools | Studying |
+|---------------|-------------------------|---------------------------|-----------------|----------|
+|  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=555555&height=20)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=555555&height=20)  
+|  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=555555&height=20)  
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white&labelColor=555555&height=20)  
+|  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555&height=20)  
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=555555&height=20)  
+|  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=555555&height=20)  
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=555555&height=20)  
+|  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&labelColor=555555&height=20)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white&labelColor=555555&height=20)  
+|
 
-| Language              |  
-|------------------|  
-| ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=555555&height=18)  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=555555&height=18) |  
-
-| Framework        |  
-|------------------|  
-| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white&labelColor=555555&height=18)  
-  ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white&labelColor=555555&height=18) |  
-
-| Collaboration         |  
-|------------------|  
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=555555&height=18)  
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white&labelColor=555555&height=18) |  
-
-| Tools           |  
-|------------------|  
-| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=555555&height=18)  
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white&labelColor=555555&height=18) |  
-
-| Studying          |  
-|------------------|  
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000&labelColor=555555&height=18)  
-  ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white&labelColor=555555&height=18) |  
 
 
 ---
