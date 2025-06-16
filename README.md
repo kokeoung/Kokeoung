@@ -51,9 +51,12 @@
 
 <div align="center">
   
-### ✨ PROJECT
+
 <details>
-  <summary>자세히보기</summary>
+
+  ### ✨ PROJECT
+  
+  <summary></summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
