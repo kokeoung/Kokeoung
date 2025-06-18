@@ -31,7 +31,7 @@
 
   ### ✨ PROJECT
   
-  <summary>onClick={showProject}</summary>
+  <summary>Project</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
