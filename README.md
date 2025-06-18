@@ -25,13 +25,12 @@
 <br>
 
 <div align="center">
-  
 
 <details>
 
   ### ✨ PROJECT
   
-  <summary>Project</summary>
+  <summary>Project (Click!!)</summary>
 
 | Project | description | Duration | skill |
 |----------|------|------|------|
